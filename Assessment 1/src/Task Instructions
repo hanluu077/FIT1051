@@ -1,0 +1,46 @@
+Task 1 (11 marks)
+Code in the method task1() in the Assessment1 class of the downloaded project. Code to display the numbers 5,8,4 and 2 each on its own output line. Add them up in code and display their sum on yet another line.
+Do this 3 ways:
+	1. Without using variables at all
+	2. Using 4 independent variables (one for each number) and another variable for their sum
+	3. Reusing just one variable for the numbers and one additional variable for their sum
+------
+Task 2 (17 marks)
+Code in the method task2() in the Assessment1 class of the downloaded project. Code declaration statements (including the assignment of an initial value) for the following values:
+	• Your jogging speed in miles per hour (mph).
+	• FIT1051 lecturer allocated to a workshop.
+	• The capacity of passengers in a train wagon.
+	• The length of a desk in millimetres.
+	• The state of a light switch.
+	• The number of books on a library shelf.
+	• The amount of COVID vaccination a person can have so far.
+	• The current temperature of the day.
+	• The number of Ace in a deck of cards.
+	• The memory size of a computer chip.
+	• The state of a traffic light, which can either “RED”, “YELLOW”, or “GREEN”. (Hint: data types need to be declared and initialise before use)
+Write code to display the value of each of the above together with a suitable description (e.g. Your height: 1.85m).
+
+----
+Task 3 (15 marks)
+Code in the method task3() in the Assessment1 class of the downloaded project. Declare variables with data type float, int, String, double and boolean and give all of them an initial sensible value of the appropriate type. Now try to assign the value of each to the other variables. You will have to comment out assignment statements that cause an error. For each assignment statement, answer the following questions:
+	1. Which conversions does Java perform automatically?
+	2. Which conversions will Java perform with a cast? What are the side effects of these cast(s)?
+
+----
+Task 4 (12 marks)
+Code in the method task4() in the Assessment1 class of the downloaded project. Draw a smiley face using the alias symbol (@) as figure below. The height of the figure should be 15 lines.Output your smiley face using only one line of System.out.println().
+Hint: You can use String concatenation & compound assignment operators.
+NOTE: You are not allowed to use any selection control structure or repetition control structure as we have not covered the material yet.
+
+---
+Task 5 (5 marks)
+Code in the method task5() in the Assessment1 class of the downloaded project. Declare a String variable called s that is initialised as null and invoke a method to it. Then output your result in the IntelliJ terminal. An error will occur when you compile your code. Explain below as code comment.
+	1. What is the error?
+	2. Step by step how the error happens.
+
+---
+Code Readability (5 marks)
+Overall code submission must be well organised and very easy to follow included but not limited to code indentation, code consistency, effective use of whitespace etc.
+
+Code Development & Documentation (5 marks)
+Overall code submission demonstrates correct syntax usage and meaningful naming conventions.Code documentations/inline comments are thorough and in detail.
